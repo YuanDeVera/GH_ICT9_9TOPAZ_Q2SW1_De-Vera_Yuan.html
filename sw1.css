@@ -1,0 +1,13 @@
+table {
+	width: 700px;
+}
+h1 {
+	color: red;
+	text-shadow: 6px 5px 4px darkred;
+}
+table, th, td {
+	border: 1px solid
+}
+th {
+	text-decoration: underline;
+}
